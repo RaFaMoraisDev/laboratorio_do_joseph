@@ -7,7 +7,7 @@ Este projeto foi desenvolvido com o objetivo de praticar versionamento utilizand
 ## Funcionalidades
 
 - Interface simples e responsiva
-
+- Atualizações nos estilos (Backgroud, Imagem)
 
 
 
