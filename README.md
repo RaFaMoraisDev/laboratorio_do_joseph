@@ -8,7 +8,7 @@ Este projeto foi desenvolvido com o objetivo de praticar versionamento utilizand
 
 - Interface simples e responsiva
 - Atualizações nos estilos (Backgroud, Imagem)
-
+- Criação do Menu e adição de novo layout
 
 
 ## Tecnologias

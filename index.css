@@ -1,6 +1,13 @@
 
-body{
-    background-color: aquamarine;
+body {
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    margin: 0;
 }
 
 h1{
